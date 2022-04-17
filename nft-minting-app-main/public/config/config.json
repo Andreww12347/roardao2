@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD24B1d7b592D31F33EdCAf7F5af88D98d54d2A4C",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xd24b1d7b592d31f33edcaf7f5af88d98d54d2a4c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "ROAR DAO",
+  "SYMBOL": "tst",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-eyjjccwm5v",
+  "SHOW_BACKGROUND": true
+}
